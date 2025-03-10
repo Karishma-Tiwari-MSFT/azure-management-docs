@@ -10,7 +10,7 @@ ms.date: 03/10/2025
 
 Starting February 12, 2025, we have enhanced the Azure Developer Support Plan by introducing Priority Community Support (PCS) as the first line of support in the Azure portal. This change is part of our ongoing effort to streamline support services and provide faster, more efficient assistance for customers using Azure.
 
-## What’s Changing?
+## What is Changing?
 
 With the introduction of PCS, Developer Support Plan customers will now receive high-quality answers to their technical Azure-related questions directly on Microsoft Q&A. This service is managed by Azure engineers, Community Experts, and Microsoft Most Valuable Professionals (MVPs), ensuring that inquiries are addressed by knowledgeable professionals. 
 
